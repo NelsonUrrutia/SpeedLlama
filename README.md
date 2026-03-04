@@ -1,5 +1,10 @@
 # SpeedLlama
 
+> ### A fast, focused interface for Ollama/Llama models.
+
+## Why?
+Existing tools struggle with Ollama integration (see [Zed #31788](https://github.com/zed-industries/zed/issues/31788)). 
+SpeedLlama is built specifically for local models, optimizing for speed and good user experience.
 
 ## Technology Stack
 
